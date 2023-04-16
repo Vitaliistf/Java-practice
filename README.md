@@ -4,9 +4,9 @@ This is a repository for my solutions to practical tasks from Epam Java self-pac
 
 There are tasks on following topics: 
 
--Java Core
--Advanced Java
--JDBC
--Java EE
--Spring
--JUnit tasks. 
+- Java Core
+- Advanced Java
+- JDBC
+- Java EE
+- Spring
+- JUnit tasks. 
