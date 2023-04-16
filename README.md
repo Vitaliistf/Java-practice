@@ -4,11 +4,11 @@ This is a repository for my solutions to practical tasks from Epam Java self-pac
 
 There are tasks on following topics: 
 
-- Java Core
-- Advanced Java
+- Java Core(including collections, logging, IO, etc)
 - JDBC
 - Java EE
 - Spring
-- JUnit tasks. 
+- JUnit 
+- Java Concurrency
 
 There is another readme.md in each project in this repository.
