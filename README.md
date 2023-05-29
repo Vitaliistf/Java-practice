@@ -10,5 +10,8 @@ There are tasks on following topics:
 - Spring
 - JUnit 
 - Java Concurrency
+- Spring Framework
+- Spring MVC
+- Spring Boot
 
 There is another readme.md in each project in this repository.
