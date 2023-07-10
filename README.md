@@ -7,7 +7,6 @@ There are tasks on following topics:
 - Java Core(including collections, logging, IO, etc)
 - JDBC
 - Java EE
-- Spring
 - JUnit 
 - Java Concurrency
 - Spring Framework
